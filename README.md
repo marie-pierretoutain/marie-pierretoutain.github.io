@@ -1,6 +1,6 @@
 # Marie-pierre Toutain site web
 
-© 2024 - GPL3 License - INRAE
+© 2024 - GPL3 License - Marie-Pierre Toutain
 
 Ce site a été créé en utilisant la technologie [Quarto](https://quarto.org).
 
@@ -13,4 +13,4 @@ Edition:
 
 * [@marie-pierretoutain]()
 
-https://XXX
+https://marie-pierretoutain.github.io
