@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 execute:
   freeze: auto
@@ -8,7 +9,7 @@ website:
   title: "Marie-Pierre Toutain - Psychanalyse, Rêve Eveillé Libre, Gestalt-thérapie"
   navbar:
    left:
-      - href: 00_index.qmd
+      - href: index.qmd
         text: Chèr.e.s visiteur.ice.s
       - 01_therapie.qmd
       - 02_therapeute.qmd
