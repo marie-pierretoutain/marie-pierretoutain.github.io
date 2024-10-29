@@ -2,9 +2,6 @@ project:
   type: website
   output-dir: "main"
 
-execute:
-  freeze: auto
-  
 website:
   title: "Marie-Pierre Toutain - Psychanalyse, Rêve Eveillé Libre, Gestalt-thérapie"
   navbar:
