@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: "public"
+
+website:
+  title: "Marie-Pierre Toutain - Psychanalyse, Rêve Eveillé Libre, Gestalt-thérapie"
+  navbar:
+   left:
+      - href: 00_index.qmd
+        text: Chèr.e.s visiteur.ice.s
+      - 01_therapie.qmd
+      - 02_therapeute.qmd
+      - 03_services.qmd
+ 
+   right:
+      - contact.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+

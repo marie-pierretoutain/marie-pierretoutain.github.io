@@ -1,0 +1,34 @@
+---
+title: "A propos"
+---
+
+
+## Crédits
+
+### Crédits photographiques
+Chaque photo XXX
+
+© Gilbert Garcin [site officiel](http://www.gilbert-garcin.com/){target="_blank"}.
+
+### Droit d’auteur - Copyright © - réutilisation des contenus
+© 2024-2025 Marie-Pierre Toutain
+
+
+### Outil de gestion de contenu
+Ce site a été créé en utilisant la technologie [Quarto](https://quarto.org){target="_blank"}.
+
+## Mentions Légales
+
+### Identification du site
+Nom du site : Marie-Pierre Toutain - Psychanalyse, Rêve Eveillé Libre, Gestalt-thérapie
+
+URL complète du site : 
+
+### Éditrice du site
+
+Marie-Pierre Toutain
+Contact mail : marie-pierre.toutain@wanadoo.fr – Contact téléphonique : + 33 (0)6 64 30 34 24
+
+## Cookies
+Ce site n'utilise aucun cookie.
+
