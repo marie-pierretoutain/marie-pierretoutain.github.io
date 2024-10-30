@@ -6,7 +6,7 @@ execute:
   freeze: auto
   
 website:
-  title: "Marie-Pierre Toutain - Psychanalyse,<br>Rêve-Éveillé-Libre, Gestalt-thérapie"
+  title: "Marie-Pierre Toutain"
   navbar:
    background: light
    search: true
