@@ -6,15 +6,16 @@ format:
 
 # Marie-Pierre Toutain {.centerh1}
 
-## Psychanalyse, Rêve Eveillé Libre, Gestalt-thérapie {.centerh2}
+## Psychanalyse, Rêve-Éveillé-Libre, Gestalt-thérapie {.centerh2}
 
 ![](img/Accueil-2site.jpg){fig-align="center" width=40%}
 
-_"Une vie, c'est la reprise en main d'un destin par une liberté" Simone de Beauvoir_
+<p style="text-align: center;">_"Une vie, c'est la reprise en main d'un destin par une liberté" Simone de Beauvoir_</p>
+
 
 ![](img/20240304_091300-2.jpg){fig-align="center" width=20% }
 
-## Chèr.e.s visiteur.ice.s
+## Chèr.e.s visiteur.euse.s
 
 Si vous vous sentez entravé.e.s dans votre existence, mal dans votre peau, pas à votre place, le type de thérapie que je pratique vous propose de retrouver une liberté et une fluidité d'être, de relationner et d'agir grâce à une approche fondée sur la parole, l'imaginaire et le corps.
 

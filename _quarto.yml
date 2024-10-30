@@ -6,11 +6,13 @@ execute:
   freeze: auto
   
 website:
-  title: "Marie-Pierre Toutain - Psychanalyse, Rêve Eveillé Libre, Gestalt-thérapie"
+  title: "Marie-Pierre Toutain - Psychanalyse, Rêve-Éveillé-Libre, Gestalt-thérapie"
   navbar:
+   background: light
+   search: true
    left:
       - href: index.qmd
-        text: Chèr.e.s visiteur.ice.s
+        text: Chèr.e.s visiteur.euse.s
       - 01_therapie.qmd
       - 02_therapeute.qmd
       - 03_services.qmd
