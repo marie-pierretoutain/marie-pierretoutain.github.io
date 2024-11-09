@@ -21,3 +21,5 @@ title: "Me contacter"
   - À Paris : 
 
     Centre Sésame, 39 boulevard de Magenta, 75010 Paris
+    
+![](img/Cabinet 4-3.jpg){width=80% }
