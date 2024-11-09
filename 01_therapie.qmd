@@ -6,6 +6,17 @@ title: "Quelle thérapie ? "
 
 ::: {.justify}
 
+:::: {.columns}
+
+::: {.column width="30%"}
+![](img/Mp_web-7.jpg){width=100% height=100% }
+:::
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="68%"}
 Ma pratique actuelle se fonde essentiellement sur la parole, l'imaginaire et le corps. Je les mobilise en fonction de ce qui émerge dans la séance et ceci à plusieurs fins : saisir au plus près ce qui se passe ; essayer de le comprendre ; faire en sorte de s'en détacher.
 
 Nous regardons l'ici et maintenant de la séance comme nous parlons de l’ailleurs, du passé et de l'avenir.
@@ -15,6 +26,9 @@ Nous regardons l’être au monde de la personne comme nous analysons les produc
 Nous parlons, imaginons, rêvons, méditons, sentons, bougeons ensemble. 
 
 Nous pouvons faire diverses expérimentations, qu'elles soient langagières, imaginaires, corporelles, ludiques ou créatives.
+:::
+
+::::
 
 Je dis “nous” car j'accompagne l’autre dans sa quête - à côté et non pas au-dessus.
 
@@ -27,6 +41,8 @@ Je dis “nous” enfin car c'est une “troisième histoire” ([Jean-Marie Del
 Ma façon de travailler trouve son origine dans mon parcours thérapeutique, mes intérêts intellectuels et les diverses formations que j'ai suivies. C'est pourquoi mon approche est intégrative, singulière et dynamique.
 
 ## Trois piliers
+
+![](img/Mp_web-11.jpg){width=100% height=100% }
 
 ### La psychanalyse
 
@@ -70,11 +86,26 @@ La Gestalt se retrouve aussi dans ma posture : je m'intéresse avant tout à l'i
 Enfin je propose des expérimentations : des mises en corps, des mises en situation et l'usage de divers médias comme le dessin, les cartes ou encore les livres dans l'idée qu'elles peuvent être l'occasion de faire émerger des figures, des prises de conscience, des ajustements créateurs voire d'opérer de véritables catharsis.
 
 
-![](img/Cabinet 7-2.jpg){width=40% }
-
 ## Des sources secondaires
 
 Moins centrales, ces sources secondaires n'en sont pas moins utiles pour mes accompagnements, soit qu'elles consolident le travail thérapeutique, soit qu'elles lui offrent des perspectives et des développements qui le décentrent et l'enrichissent.
+
+:::: {.columns}
+
+::: {.column width="49%"}
+![](img/Mp_web-19.jpg){width=100% }
+:::
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="49%"}
+![](img/Mp_web-18.jpg){width=100% }
+:::
+
+::::
+
 
 *	**La psychopathologie issue du champ de la psychiatrie** : le DSM 5 (Manuel diagnostique et statistique des troubles mentaux élaboré par l'Association américaine de psychiatrie) et de l'ICD 11 (Classification internationale des maladies – CIM- fait par l'Organisation Mondiale de la Santé) offrent en effet des jalons qui permettent de se repérer dans les dédales de la psyché humaine et une référence commune avec d'autres professionnels de santé avec qui je travaille, en particulier les psychiatres ;
 
@@ -99,7 +130,6 @@ Moins centrales, ces sources secondaires n'en sont pas moins utiles pour mes acc
 *	**Les arts et la littérature** : je crois en la force des mots et des œuvres pour parler à la tête, au cœur et au corps et pour parler de et à l’inconscient. Je crois aussi au pouvoir réparateur de la beauté sur les âmes blessées ou perdues. C’est pourquoi je mobilise souvent ma culture littéraire et artistique dans mon travail.
 
 
-![](img/Cabinet 7-2.jpg){width=40% }
 
 ## Deux spécialités
 
@@ -109,5 +139,3 @@ Je peux accompagner un large éventail de problématiques mais je suis particuli
 *	Les questions LGBTQIA+.
 
 :::
-
-![](img/Cabinet 7-2.jpg){width=40% }
