@@ -8,6 +8,8 @@ format:
 
 # Ma vision du métier
 
+::: {.justify}
+
 Un.e thérapeute a d’abord pour fonction d’accueillir et de **soulager les souffrances** de celleux qu’iel accompagne. Je le fais avec empathie, attention et soin.
 
 Cependant j’ai une vision plus large de ma fonction. Je considère en effet qu’un.e thérapeute a également pour vocation d’aider au **déploiement et à la croissance des êtres et de les faire gagner en conscience** - conscience d’eux-mêmes, conscience des autres et plus largement conscience de leur environnement.
@@ -18,24 +20,18 @@ Evidemment, nous restons des êtres humains avec nos imperfections et nos zones 
 
 ![](img/Cabinet 7-2.jpg){width=40% }
 
-# Mes formations, diplômes et parcours professionnels
+# Mes parcours professionnel et universitaire
 
-
--	Bac scientifique (Bac C)
--	Un an d’Hypokhâgne classique pour préparer le concours d’entrée de l’École Normale Supérieure de la rue d’Ulm au lycée Molière (Paris)
--	Deux ans de Khâgne pour préparer le concours B de l’École des Chartes (Lycées Molière et Henri IV)
--	Licence puis Maîtrise d’Histoire médiévale à la Sorbonne Paris IV. Séminaire d’herméneutique médiévale à l’École Pratique des Hautes Études 
--	Deux ans de préparation aux concours d’enseignement pour devenir professeure d’Histoire-Géographie
--	Enseignement de l’Histoire-Géographie et de l’Éducation civique dans l’Académie de Versailles puis de Montpellier (22 ans)
+-	Licence puis Maîtrise d’Histoire médiévale à la Sorbonne Paris IV
+-	Enseignement de l’Histoire-Géographie dans l’Académie de Versailles puis de Montpellier (de 1999 à 2022)
 -	Licence de Philosophie à la Sorbonne Paris IV
--	Certification d’Espagnol et enseignement pendant près de 15 ans de la DNL (Discipline Non Linguistique) d’Histoire-Géographie en classe européenne
--	Certification d’Histoire des Arts et enseignement artistique pendant plus de 10 ans en coanimation avec des collègues de Lettres (poésie, théâtre, peinture, cinéma etc.)
--	Master 1 et 2 de Sociologie à l’École des Hautes Etudes en Sciences Sociales avec la spécialité Genre, Politique, Sexualité.
--	Deux Diplômes Universitaires de psychanalyse à l’université Paris-Diderot (Paris VII) : le premier sur Freud, le second sur les postfreudiens
+-	Master de recherche de Sociologie à l’École des Hautes Etudes en Sciences Sociales avec la spécialité Genre, Politique, Sexualité
+-	Diplômes Universitaires de psychanalyse à l’université Paris-Diderot (Paris VII)
 -	Diplôme de praticienne en Rêve Éveillé Libre à l’École du Rêve Éveillé Libre
--	Début de mon activité de psychanalyste et de praticienne en Rêve Éveillé Libre
--	Démission de l’Éducation Nationale
+- Installation en 2019 en tant que psychanaliste et praticienne en Rêve Éveillé Libre
 -	Diplôme de praticienne en Gestalt-thérapie à l’École Parisienne de Gestalt
 -	Diplôme de gestalt-thérapeute à l’École Parisienne de Gestalt pour décembre 2025
+
+:::
 
 ![](img/Cabinet 7-2.jpg){width=40% }

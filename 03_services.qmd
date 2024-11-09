@@ -8,6 +8,8 @@ format:
 
 # Thérapie individuelle d’une heure
 
+::: {.justify}
+
 * Séances en cabinet : 
   - A Montpellier, au Centre de thérapie des Arceaux, 18 rue de Louvain 34000 (Les Arceaux)
   -	A Paris, au Centre Sésame, 39 boulevard de Magenta 75010 (Arrêts Bonsergeant, République, Gare de l’Est, Château d’eau)
@@ -16,7 +18,7 @@ format:
 
 * Tarifs : 
   - 80 euros à Paris et dans les grandes métropoles européennes, 
-  - 70 euros à Montpellier et dans les reste de la France,
+  - 70 euros à Montpellier et dans le reste de la France,
   - Des formules solidaires sont envisageables en fonction de mes possibilités et de l’engagement des patients
 
 * Les RDV peuvent être pris :
@@ -27,3 +29,5 @@ format:
 
 * Conférences/formations/ateliers sur les questions de genre et de sexualité auprès de professionnels de la santé mentale ou de profanes: tarifs à définir avec les associations ou les institutions demandeuses.
 
+
+:::

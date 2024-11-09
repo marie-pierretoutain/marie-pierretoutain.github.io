@@ -17,6 +17,8 @@ format:
 
 ## Chèr.e.s visiteur.euse.s
 
+::: {.justify}
+
 Si vous vous sentez entravé.e.s dans votre existence, mal dans votre peau, pas à votre place, le type de thérapie que je pratique vous propose de retrouver une liberté et une fluidité d'être, de relationner et d'agir grâce à une approche fondée sur la parole, l'imaginaire et le corps.
 
 Née de mon propre parcours thérapeutique, de mes intérêts intellectuels, de mes diverses formations et de ma pratique en Psychanalyse, Rêve Éveillé Libre et Gestalt-thérapie, cette approche singulière vise à remettre du mouvement et à rouvrir des possibles là où il y a figement et/ou répétitions pour permettre à chacun.e de (re)contacter sa puissance, de (re)prendre du pouvoir sur sa vie et d’assumer sa liberté.
@@ -28,6 +30,6 @@ Je ne puis que vous encourager à emprunter ce chemin qui, s'il n'est pas toujou
 
 
 
-
+:::
 
 ![](img/Accueil-2site.jpg){width=50% }

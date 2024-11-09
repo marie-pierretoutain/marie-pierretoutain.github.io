@@ -5,13 +5,15 @@ title: "A propos"
 
 ## Crédits
 
+::: {.justify}
+
 ### Crédits photographiques
 
-© Centre Sésame Paris X
+* © Centre Sésame Paris X
+* © Gabriel Quirant-Pidet
 
 ### Droit d’auteur - Copyright © - réutilisation des contenus
 © 2024-2025 Marie-Pierre Toutain
-
 
 ### Outil de gestion de contenu
 Ce site a été créé en utilisant la technologie [Quarto](https://quarto.org){target="_blank"}.
@@ -31,3 +33,4 @@ Contact mail : marie-pierre.toutain@wanadoo.fr – Contact téléphonique : + 33
 ## Cookies
 Ce site n'utilise aucun cookie.
 
+::: 
