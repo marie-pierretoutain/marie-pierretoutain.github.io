@@ -4,16 +4,16 @@ format:
     css: styles.css
 ---
 
+![](img/20240304_091300-2.jpg){fig-align="center" width=30% }
+
 # Marie-Pierre Toutain {.centerh1}
 
 ## Psychanalyse, Rêve-Éveillé-Libre, Gestalt-thérapie {.centerh2}
 
-![](img/Accueil-2site.jpg){fig-align="center" width=40%}
+![](img/Le maître du monde 2008 Garcin.jpg){fig-align="center" width=100%}
 
-<p style="text-align: center;">_"Une vie, c'est la reprise en main d'un destin par une liberté" Simone de Beauvoir_</p>
+<p style="text-align: center; font-size: 30px"> _"Une vie, c'est la reprise en main d'un destin par une liberté" Simone de Beauvoir_ </p>
 
-
-![](img/20240304_091300-2.jpg){fig-align="center" width=20% }
 
 ## Chèr.e.s visiteur.euse.s
 
@@ -32,4 +32,4 @@ Je ne puis que vous encourager à emprunter ce chemin qui, s'il n'est pas toujou
 
 :::
 
-![](img/Accueil-2site.jpg){width=50% }
+![](img/Le départ.jpg){width=80% }
