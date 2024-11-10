@@ -13,7 +13,7 @@ format:
 :::: {.columns}
 
 ::: {.column width="30%"}
-![](img/Mp_web-23.jpg){width=100% height=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-23.jpg){width=100% height=100% }
 
 :::
 
@@ -32,17 +32,19 @@ C’est pourquoi je considère également ce métier comme un métier engagé, u
 
 Evidemment, nous restons des êtres humains avec nos imperfections et nos zones de corruptibilité et le travail sur soi ne saurait se substituer aux luttes sociales et à la défense des grandes causes contemporaines au sein d’associations, de mouvements, de syndicats ou de partis. Mais c’est du "et" que je propose. A l’heure où les thérapies ou le développement personnel sont taxés – parfois à juste titre - de pratiques néo-libérales, individualistes voire égoïstes, je réponds comme les féministes que **"l’intime est politique"** et comme Gandhi que nous pouvons également **être le changement que nous voulons voir dans le monde**.
 
+:::
 
 # Mes parcours professionnel et universitaire
+
+::: {.justify}
 
 :::: {.columns}
 
 ::: {.column width="30%"}
-![](img/La dernière ligne droite 147.jpg){width=100% height=100% }
+![La dernière ligne droite - ©Gilbert Garcin](img/La dernière ligne droite 147.jpg){width=100% height=100% }
 :::
 
 ::: {.column width="2%"}
-<!-- empty column to create gap -->
 :::
 
 ::: {.column width="68%"}
@@ -52,7 +54,7 @@ Evidemment, nous restons des êtres humains avec nos imperfections et nos zones 
 -	Master de recherche de Sociologie à l’École des Hautes Etudes en Sciences Sociales avec la spécialité Genre, Politique, Sexualité
 -	Diplômes Universitaires de psychanalyse à l’université Paris-Diderot (Paris VII)
 -	Diplôme de praticienne en Rêve Éveillé Libre à l’École du Rêve Éveillé Libre
-- Installation en 2019 en tant que psychanaliste et praticienne en Rêve Éveillé Libre
+- Installation en 2019 en tant que psychanalyste et praticienne en Rêve Éveillé Libre
 -	Diplôme de praticienne en Gestalt-thérapie à l’École Parisienne de Gestalt
 -	Diplôme de gestalt-thérapeute à l’École Parisienne de Gestalt pour décembre 2025
 :::

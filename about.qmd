@@ -2,16 +2,25 @@
 title: "A propos"
 ---
 
-
 ## Crédits
-
-::: {.justify}
 
 ### Crédits photographiques
 
-* © Gilbert Garcin - [www.gilbert-garcin.fr](www.gilbert-garcin.fr){target="_blank"}
-* © [Gabriel Quirant-Pidet](gqp.fr){target="_blank"}
+::: {.justify}
+
+* © Gilbert Garcin - [http://www.gilbert-garcin.com/](http://www.gilbert-garcin.com/){target="_blank"}
+
+Un immense remerciement à Philippe Garcin, fils de Gilbert Garcin, qui a eu la gentillesse de m'autoriser à utiliser les photographies de son père pour illustrer en partie ce site.
+
+* © [Gabriel Quirant-Pidet](https://www.gqp.fr/){target="_blank"}
+
+Toute ma gratitude à Gabriel Quirant-Pidet qui a si bien su photographier mon cabinet du 18 rue de Louvain.
+
 * © Centre Sésame Paris X
+
+Un grand merci au Centre Sésame qui m'a autorisée à utiliser l'une de ses photographies pour illustrer mon cabinet du 39 boulevard de Magenta, Paris.
+
+::: 
 
 ### Droit d’auteur - Copyright © - réutilisation des contenus
 © 2024-2025 Marie-Pierre Toutain
@@ -24,11 +33,12 @@ Ce site a été créé en utilisant la technologie [Quarto](https://quarto.org){
 ### Identification du site
 Nom du site : Marie-Pierre Toutain - Psychanalyse, Rêve Eveillé Libre, Gestalt-thérapie
 
-URL complète du site : 
+URL complète du site : https://marie-pierretoutain.github.io
 
 ### Éditrice du site
 
 Marie-Pierre Toutain
+
 Contact mail : marie-pierre.toutain@wanadoo.fr – Contact téléphonique : + 33 (0)6 64 30 34 24
 
 ### Créatrice du site
@@ -38,4 +48,3 @@ Contact mail : marie-pierre.toutain@wanadoo.fr – Contact téléphonique : + 33
 ## Cookies
 Ce site n'utilise aucun cookie.
 
-::: 

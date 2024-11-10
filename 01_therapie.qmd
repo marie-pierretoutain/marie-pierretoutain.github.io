@@ -9,7 +9,7 @@ title: "Quelle thérapie ? "
 :::: {.columns}
 
 ::: {.column width="30%"}
-![](img/Mp_web-7.jpg){width=100% height=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-7.jpg){width=100% height=100% }
 :::
 
 ::: {.column width="2%"}
@@ -36,16 +36,20 @@ Je dis “nous” également car je participe aussi, par ma présence et mon eng
 
 Je dis “nous” enfin car c'est une “troisième histoire” ([Jean-Marie Delacroix](https://catalogue.bnf.fr/ark:/12148/cb412478689){target="_blank"}), celle de ce chemin, que nous écrivons ensemble.
 
+:::
 # Mes sources
 
+::: {.justify}
 Ma façon de travailler trouve son origine dans mon parcours thérapeutique, mes intérêts intellectuels et les diverses formations que j'ai suivies. C'est pourquoi mon approche est intégrative, singulière et dynamique.
 
+:::
 ## Trois piliers
 
-![](img/Mp_web-11.jpg){width=100% height=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-11.jpg){width=100% height=100% }
 
 ### La psychanalyse
 
+::: {.justify}
 Pour les personnes qui seraient peu familières de la psychanalyse, vous pouvez vous faire une idée de ce qu'elle est en cliquant sur le lien qui suit, la SPP étant l'une des sociétés de psychanalyse héritières de Freud les plus reconnues en France : [https://www.spp.asso.fr/la-psychanalyse/une-definition-de-la-psychanalyse/](https://www.spp.asso.fr/la-psychanalyse/une-definition-de-la-psychanalyse/){target="_blank"}.
 
 La psychanalyse a été ma première expérience de thérapie et c'est aujourd'hui encore la plus longue : plus de 20 ans ! J'ai profondément aimé être en analyse et j'ai beaucoup de reconnaissance vis-à-vis des deux analystes qui m'ont suivie pendant des années. Je suis devenue psychanalyste à mon tour mais ai vite pris mes distances vis-à-vis de la théorie et de la posture.
@@ -56,22 +60,26 @@ Reste que certaines hypothèses et concepts psychanalytiques sont encore au cœu
 
 J'ai également gardé de la psychanalyse un certain goût pour l'enquête archéologique et la recherche du “pourquoi”. Et si cette question n'est plus la première que je (me) pose, elle s'invite très souvent au cours des séances, comme un passage obligé dans certains cas ou comme un moyen pour les personnes de mettre du sens sur leur propre histoire et de se la réapproprier.
 
+:::
 ### Le Rêve Éveillé Libre
 
+::: {.justify}
 Si vous voulez avoir de plus amples renseignements sur la méthode originelle du Rêve Éveillé Libre, j'ai été interviewée il y a quelques années pour un podcast dans lequel je la présente. Voici le lien :
 
 [https://www.bioalaune.com/fr/actualite-bio/39223/podcast-dans-reves-episode-3-reve-eveille-libre](https://www.bioalaune.com/fr/actualite-bio/39223/podcast-dans-reves-episode-3-reve-eveille-libre){target="_blank"}.
 
 Vous pouvez aussi aller sur le site de l’ADREL (Association pour le Développement du Rêve Eveillé Libre) : [https://www.reve-eveille-libre.org/](https://www.reve-eveille-libre.org/){target="_blank"}.
 
-Aujourd'hui je ne pratique que très rarement le Rêve Eveillé Libre dans sa version canonique. En séance je pars plutôt d'un ressenti corporel ou d'une image donnée par la personne que j’accompagne pour lancer un Rêve Eveillé qui est davantage ciblé sur la question que nous sommes en train d'examiner. Je m'autorise même parfois à intervenir par des questions ou des temps d'interprétation en vue de soutenir ou de relancer le processus. Je peux également utiliser le Rêve Eveillé Libre pour travailler les rêves nocturnes et les traumatismes. 
+Aujourd'hui je ne pratique que très rarement le Rêve Éveillé Libre dans sa version canonique. En séance je pars plutôt d'un ressenti corporel ou d'une image donnée par la personne que j’accompagne pour lancer un Rêve Éveillé qui est davantage ciblé sur la question que nous sommes en train d'examiner. Je m'autorise même parfois à intervenir par des questions ou des temps d'interprétation en vue de soutenir ou de relancer le processus. Je peux également utiliser le Rêve Éveillé Libre pour travailler les rêves nocturnes et les traumatismes. 
 
-Je considère en effet le Rêve Eveillé Libre non seulement comme un moyen d'avoir de l'information de première main sur ce qui active les patient.e.s et dont iels ne sont souvent pas conscient.e.s mais aussi comme une ressource majeure pour les aider à traverser leurs difficultés grâce au large éventail de solutions qu'il propose.
+Je considère en effet le Rêve Éveillé Libre non seulement comme un moyen d'avoir de l'information de première main sur ce qui active les patient.e.s et dont iels ne sont souvent pas conscient.e.s mais aussi comme une ressource majeure pour les aider à traverser leurs difficultés grâce au large éventail de solutions qu'il propose.
 
 Quant à la technique d'interprétation, je la garde en tête ainsi que le sens des symboles et des archétypes les plus courants, mais ce sont évidemment l'interprétation des patient.e.s ou/et les associations libres qu'iels font que je prends d'abord en compte. Je prête ensuite ma chair, ma sensibilité, mes connaissances et mon intuition pour nourrir nos échanges et coconstruire avec elleux un sens qui puisse les faire avancer sur leur chemin.
+:::
 
 ### La Gestalt-thérapie
 
+::: {.justify}
 La Gestalt-thérapie est la méthode qui colore le plus ma pratique aujourd'hui. Peu connue en France, elle peut laisser d'autant plus perplexe que son nom allemand se traduit en français par "forme", ce qui, au premier abord, n'a pas grand-chose à voir avec l'univers thérapeutique.
 Si vous voulez avoir une présentation générale de ce qu'est la Gestalt-thérapie, je vous propose de suivre le lien suivant qui vous mènera sur le site de l'Ecole Parisienne de Gestalt : [https://www.epg-gestalt.fr/a-propos/gestalt-definition](https://www.epg-gestalt.fr/a-propos/gestalt-definition){target="_blank"}.
 
@@ -85,15 +93,18 @@ La Gestalt se retrouve aussi dans ma posture : je m'intéresse avant tout à l'i
 
 Enfin je propose des expérimentations : des mises en corps, des mises en situation et l'usage de divers médias comme le dessin, les cartes ou encore les livres dans l'idée qu'elles peuvent être l'occasion de faire émerger des figures, des prises de conscience, des ajustements créateurs voire d'opérer de véritables catharsis.
 
+:::
 
 ## Des sources secondaires
+
+::: {.justify}
 
 Moins centrales, ces sources secondaires n'en sont pas moins utiles pour mes accompagnements, soit qu'elles consolident le travail thérapeutique, soit qu'elles lui offrent des perspectives et des développements qui le décentrent et l'enrichissent.
 
 :::: {.columns}
 
 ::: {.column width="49%"}
-![](img/Mp_web-19.jpg){width=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-19.jpg){width=100% }
 :::
 
 ::: {.column width="2%"}
@@ -105,7 +116,6 @@ Moins centrales, ces sources secondaires n'en sont pas moins utiles pour mes acc
 :::
 
 ::::
-
 
 *	**La psychopathologie issue du champ de la psychiatrie** : le DSM 5 (Manuel diagnostique et statistique des troubles mentaux élaboré par l'Association américaine de psychiatrie) et de l'ICD 11 (Classification internationale des maladies – CIM- fait par l'Organisation Mondiale de la Santé) offrent en effet des jalons qui permettent de se repérer dans les dédales de la psyché humaine et une référence commune avec d'autres professionnels de santé avec qui je travaille, en particulier les psychiatres ;
 
@@ -129,9 +139,11 @@ Moins centrales, ces sources secondaires n'en sont pas moins utiles pour mes acc
 
 *	**Les arts et la littérature** : je crois en la force des mots et des œuvres pour parler à la tête, au cœur et au corps et pour parler de et à l’inconscient. Je crois aussi au pouvoir réparateur de la beauté sur les âmes blessées ou perdues. C’est pourquoi je mobilise souvent ma culture littéraire et artistique dans mon travail.
 
+:::
 
 # Deux spécialités
 
+::: {.justify}
 Je peux accompagner un large éventail de problématiques mais je suis particulièrement formée dans deux domaines :
 
 *	Le trauma ;
