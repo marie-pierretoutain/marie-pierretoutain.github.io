@@ -12,7 +12,9 @@ format:
 ::: {.justify}
 
 * Séances en cabinet : 
-  - A Montpellier, au Centre de thérapie des Arceaux, 18 rue de Louvain 34000 (Les Arceaux)
+  - A Montpellier, 
+    - au Centre de thérapie des Arceaux, 18 rue de Louvain 34000 (Les Arceaux)
+    - au Centre "Les Sens de l'Être", 5 rue Boyer, 34000 Montpellier (gare Saint-Roch), uniquement le vendredi
   -	A Paris, au Centre Sésame, 39 boulevard de Magenta 75010 (Arrêts Bonsergeant, République, Gare de l’Est, Château d’eau)
   
 * Séances également en visio et par téléphone

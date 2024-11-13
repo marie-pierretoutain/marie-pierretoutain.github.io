@@ -10,17 +10,7 @@ format:
 
 ## Psychanalyse, Rêve-Éveillé-Libre, Gestalt-thérapie {.centerh2}
 
-:::: {.columns}
-
-::: {.column width="99%"}
-![Le maître du monde](img/Le maître du monde 2008 Garcin.jpg){fig-align="center" width=100%}
-:::
-
-::: {.column width="1%"}
-<p style="writing-mode: vertical-rl ; transform: rotate(180deg)"> © Gilbert Garcin </p>
-:::
-
-::::
+![Le maître du monde - ©Gilbert Garcin](img/Le maître du monde 2008 Garcin.jpg){fig-align="center" width=100%}
 
 <p style="text-align: center; font-size: 30px"> _"Une vie, c'est la reprise en main d'un destin par une liberté" Simone de Beauvoir_ </p>
 
@@ -41,16 +31,5 @@ Je ne puis que vous encourager à emprunter ce chemin qui, s'il n'est pas toujou
 :::
 
 
-:::: {.columns}
-
-::: {.column width="97%"}
-![Le départ](img/Le départ.jpg){width=80% }
-
-:::
-
-::: {.column width="3%"}
-<p style="writing-mode: vertical-rl ; transform: rotate(180deg)"> © Gilbert Garcin </p>
-:::
-
-::::
+![Le départ - ©Gilbert Garcin](img/Le départ.jpg){width=80% }
 
