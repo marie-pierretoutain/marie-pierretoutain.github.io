@@ -5,7 +5,7 @@ format:
     page-layout: full
 ---
 
-![©Gabriel Quirant-Pidet](img/Mp_web-4.jpg){width=100% height=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-4.jpg){width=100% height=100% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gabriel Quirant-Pidet"}
 
 # Thérapie individuelle d’une heure
 
@@ -26,11 +26,24 @@ format:
 
 * Les RDV peuvent être pris :
   - par téléphone au 06 64 30 34 24. N’hésitez pas à laisser un message je vous rappelerai
-  - sur la plate-forme des [pages jaunes](https://www.pagesjaunes.fr/pros/60371469){target="_blank"}
+  - sur la plate-forme des [pages jaunes](https://www.pagesjaunes.fr/pros/60371469){target="_blank"} (uniquement pour le cabinet du 18 rue de Louvain à Montpellier et la visio)
+  
+:::
+
+# Groupe de thérapie et groupe de parole
+
+::: {.justify}
+
+* Groupe de thérapie pour femmes (orientation féministe). Une fois par mois à Montpellier à partir de février 2025
+
+* Groupe de parole autour du cancer au Centre de ReSource MAVILA. Une fois par mois à Paris à partir de janvier 2025
+
+:::
 
 # Conférences, formations et ateliers
 
-* Conférences/formations/ateliers sur les questions de genre et de sexualité auprès de professionnels de la santé mentale ou de profanes: tarifs à définir avec les associations ou les institutions demandeuses.
+::: {.justify}
 
+* Conférences/formations/ateliers sur les questions de genre et de sexualité auprès de professionnels de la santé mentale ou de profanes: tarifs à définir avec les associations ou les institutions demandeuses.
 
 :::

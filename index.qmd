@@ -4,13 +4,15 @@ format:
     css: styles.css
 ---
 
-![](img/20240304_091300-2.jpg){fig-align="center" width=30% }
+<meta name="description" content="Marie-Pierre Toutain - Psychanalyse, Rêve-Éveillé-Libre, Gestalt-thérapie, en cabinet à Montpellier et Paris et en visio.">
+
+![](img/Photo MP psy 2022.jpg){fig-align="center" fig-alt="Marie-Pierre Toutain psychotérapeute" width=50%}
 
 # Marie-Pierre Toutain {.centerh1}
 
 ## Psychanalyse, Rêve-Éveillé-Libre, Gestalt-thérapie {.centerh2}
 
-![Le maître du monde - ©Gilbert Garcin](img/Le maître du monde 2008 Garcin.jpg){fig-align="center" width=100%}
+![Le maître du monde - ©Gilbert Garcin](img/Le maître du monde 2008 Garcin.jpg){fig-align="center" width=100% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gilbert Garcin"}
 
 <p style="text-align: center; font-size: 30px"> _"Une vie, c'est la reprise en main d'un destin par une liberté" Simone de Beauvoir_ </p>
 
@@ -19,17 +21,18 @@ format:
 
 ::: {.justify}
 
-Si vous vous sentez entravé.e.s dans votre existence, mal dans votre peau, pas à votre place, le type de thérapie que je pratique vous propose de retrouver une liberté et une fluidité d'être, de relationner et d'agir grâce à une approche fondée sur la parole, l'imaginaire et le corps.
+Si vous vous sentez entravé.e.s dans votre existence, mal dans votre peau, pas à votre place ; que vous connaissez une période de déprime, de dépression ou de mélancolie ; que vous vivez du stress, de l'anxiété ou de l'angoisse ; que vous avez subi des deuils, des traumatismes ou la violence des normes ; que vous êtes en crise existentielle, en quête de sens ou de vous-même, vous êtes au bon endroit. L'accompagnement que je propose entend en effet remettre du mouvement et rouvrir des possibles là où il y a figement et/ou répétitions de manière à permettre à chacun.e de (re)contacter sa puissance et de (re)prendre du pouvoir sur sa vie. 
 
-Née de mon propre parcours thérapeutique, de mes intérêts intellectuels, de mes diverses formations et de ma pratique en Psychanalyse, Rêve Éveillé Libre et Gestalt-thérapie, cette approche singulière vise à remettre du mouvement et à rouvrir des possibles là où il y a figement et/ou répétitions pour permettre à chacun.e de (re)contacter sa puissance, de (re)prendre du pouvoir sur sa vie et d’assumer sa liberté.
-Au-delà de la connaissance de soi et du rapport à l'autre, ce cheminement pourra croiser des questions sociales, politiques, métaphysiques ou encore spirituelles : l'expérience humaine est vaste et polymorphe, elle mérite d'être accueillie dans toutes ses dimensions, y compris sur le divan.
+Née de mon propre parcours thérapeutique, de mes intérêts intellectuels, de mes diverses formations et de ma pratique en Psychanalyse, Rêve Éveillé Libre et Gestalt-thérapie, mon approche se fonde à la fois sur la parole, l'imaginaire et le corps.
 
-Vous l'aurez donc compris, ma démarche ne se limite pas au soin et vise aussi le déploiement de l'être, pour soi, avec les autres, dans le monde voire au-delà.
+Au-delà de la connaissance de soi et du rapport à l’autre, notre cheminement pourra croiser des questions sociales, politiques, métaphysiques ou encore spirituelles : l’expérience humaine est vaste et polymorphe, elle mérite d’être accueillie dans toutes ses dimensions, y compris sur le divan.
 
-Je ne puis que vous encourager à emprunter ce chemin qui, s'il n'est pas toujours facile, est une expérience d'humanité d'une rare richesse.
+Vous l’aurez donc compris, ma démarche ne se limite pas au soin et vise aussi le déploiement de l’être, pour soi, avec les autres, dans le monde voire au-delà.
+
+Je ne puis que vous encourager à emprunter ce chemin qui, s’il n’est pas toujours facile, est une expérience d’humanité d’une rare richesse.
 
 :::
 
 
-![Le départ - ©Gilbert Garcin](img/Le départ.jpg){width=80% }
+![Le départ - ©Gilbert Garcin](img/Le départ.jpg){width=80% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gilbert Garcin"}
 

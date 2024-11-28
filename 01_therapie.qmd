@@ -9,7 +9,7 @@ title: "Quelle thérapie ? "
 :::: {.columns}
 
 ::: {.column width="30%"}
-![©Gabriel Quirant-Pidet](img/Mp_web-7.jpg){width=100% height=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-7.jpg){width=100% height=100% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gabriel Quirant-Pidet"}
 :::
 
 ::: {.column width="2%"}
@@ -45,7 +45,7 @@ Ma façon de travailler trouve son origine dans mon parcours thérapeutique, mes
 :::
 ## Trois piliers
 
-![©Gabriel Quirant-Pidet](img/Mp_web-11.jpg){width=100% height=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-11.jpg){width=100% height=100% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gabriel Quirant-Pidet"}
 
 ### La psychanalyse
 
@@ -66,7 +66,7 @@ J'ai également gardé de la psychanalyse un certain goût pour l'enquête arch�
 ::: {.justify}
 Si vous voulez avoir de plus amples renseignements sur la méthode originelle du Rêve Éveillé Libre, j'ai été interviewée il y a quelques années pour un podcast dans lequel je la présente. Voici le lien :
 
-[https://www.bioalaune.com/fr/actualite-bio/39223/podcast-dans-reves-episode-3-reve-eveille-libre](https://www.bioalaune.com/fr/actualite-bio/39223/podcast-dans-reves-episode-3-reve-eveille-libre){target="_blank"}.
+[https://www.youtube.com/watch?v=lGzpuySw9IU](https://www.youtube.com/watch?v=lGzpuySw9IU){target="_blank"}.
 
 Vous pouvez aussi aller sur le site de l’ADREL (Association pour le Développement du Rêve Eveillé Libre) : [https://www.reve-eveille-libre.org/](https://www.reve-eveille-libre.org/){target="_blank"}.
 
@@ -104,7 +104,7 @@ Moins centrales, ces sources secondaires n'en sont pas moins utiles pour mes acc
 :::: {.columns}
 
 ::: {.column width="49%"}
-![©Gabriel Quirant-Pidet](img/Mp_web-19.jpg){width=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-19.jpg){width=100% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gabriel Quirant-Pidet"}
 :::
 
 ::: {.column width="2%"}
@@ -112,7 +112,7 @@ Moins centrales, ces sources secondaires n'en sont pas moins utiles pour mes acc
 :::
 
 ::: {.column width="49%"}
-![](img/Mp_web-18.jpg){width=100% }
+![](img/Mp_web-18.jpg){width=100% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gabriel Quirant-Pidet"}
 :::
 
 ::::

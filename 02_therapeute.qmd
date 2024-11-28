@@ -13,7 +13,7 @@ format:
 :::: {.columns}
 
 ::: {.column width="30%"}
-![©Gabriel Quirant-Pidet](img/Mp_web-23.jpg){width=100% height=100% }
+![©Gabriel Quirant-Pidet](img/Mp_web-23.jpg){width=100% height=100% fig-alt="Marie-Pierre Toutain psychotérapeute" }
 
 :::
 
@@ -41,7 +41,7 @@ Evidemment, nous restons des êtres humains avec nos imperfections et nos zones 
 :::: {.columns}
 
 ::: {.column width="30%"}
-![La dernière ligne droite - ©Gilbert Garcin](img/La dernière ligne droite 147.jpg){width=100% height=100% }
+![La dernière ligne droite - ©Gilbert Garcin](img/La dernière ligne droite 147.jpg){width=100% height=100% fig-alt="Marie-Pierre Toutain psychotérapeute - photo de Gilbert Garcin"}
 :::
 
 ::: {.column width="2%"}

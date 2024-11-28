@@ -21,4 +21,4 @@ title: "Me contacter"
 
     Centre Sésame, 39 boulevard de Magenta, 75010 Paris
     
-![© Centre Sésame](img/Cabinet 4-3.jpg){width=80% }
+![© Centre Sésame](img/Cabinet 4-3.jpg){width=80% fig-alt="Marie-Pierre Toutain psychotérapeute - photo Centre Sésame"}
